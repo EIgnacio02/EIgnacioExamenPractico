@@ -423,7 +423,7 @@ namespace BL
                         libros.Genero.NombreGenero = query.NombreGenero;
 
                         result.Object=libros;
-                        
+
                     }
 
                 }
